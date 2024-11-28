@@ -74,13 +74,18 @@ To run the project locally, follow these steps:
    ```bash
    ./main
 
-## 📝 Input Data Format
-### Burfi Problem: 
--Provide a list of Burfi sizes and corresponding prices.
-###Pattern Search: 
--Provide a matrix and a pattern matrix.
-###Graph Algorithms: 
--Provide edge and path data in a suitable format.
+---
+
+# 📝 Input Data Format
+
+## Burfi Problem
+- Provide a list of Burfi sizes and corresponding prices.
+
+## Pattern Search
+- Provide a matrix and a pattern matrix.
+
+## Graph Algorithms
+- Provide edge and path data in a suitable format.
 
 ---
 
