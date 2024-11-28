@@ -73,3 +73,13 @@ To run the project locally, follow these steps:
 3. Clone the repository:
    ```bash
    ./main
+
+## 📝 Input Data Format
+Burfi Problem: Provide a list of Burfi sizes and corresponding prices.
+Pattern Search: Provide a matrix and a pattern matrix.
+Graph Algorithms: Provide edge and path data in a suitable format.
+
+---
+
+## 🤝 Contributing
+Everyone is welcome for contributions! Feel free to fork the repository, submit issues, or send pull requests. Your contributions will be highly appreciated.
