@@ -67,19 +67,7 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/design-analysis-algorithms.git
    cd design-analysis-algorithms
-
 2. Compile the code:
-```bash
-g++ -o main main.cpp
-
+   g++ -o main main.cpp
 3. Run the code:
-```bash
-./main
-
-Input Data Format:
-Burfi Problem: Provide a list of Burfi sizes and corresponding prices.
-Pattern Search: Provide a matrix and a pattern matrix.
-Graph Algorithms: Provide edge and path data in a suitable format.
-
-🤝 Contributing
-We welcome contributions! Feel free to fork the repository, submit issues, or send pull requests. Your contributions will be highly appreciated.
+   ./main
