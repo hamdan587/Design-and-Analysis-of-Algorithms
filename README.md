@@ -67,7 +67,9 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/design-analysis-algorithms.git
    cd design-analysis-algorithms
-2. Compile the code:
+2. Clone the repository:
+   ```bash
    g++ -o main main.cpp
-3. Run the code:
+3. Clone the repository:
+   ```bash
    ./main
