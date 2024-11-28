@@ -75,9 +75,12 @@ To run the project locally, follow these steps:
    ./main
 
 ## 📝 Input Data Format
-Burfi Problem: Provide a list of Burfi sizes and corresponding prices.
-Pattern Search: Provide a matrix and a pattern matrix.
-Graph Algorithms: Provide edge and path data in a suitable format.
+### Burfi Problem: 
+-Provide a list of Burfi sizes and corresponding prices.
+###Pattern Search: 
+-Provide a matrix and a pattern matrix.
+###Graph Algorithms: 
+-Provide edge and path data in a suitable format.
 
 ---
 
